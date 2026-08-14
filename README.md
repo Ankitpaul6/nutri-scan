@@ -12,7 +12,7 @@
       <br />
    </td>
     
-     <td align="center">
+ <td align="center">
       <a href="https://github.com/ankit-paul-2002">
         <img src="https://avatars.githubusercontent.com/u/96469248?v=4" width="100px;" alt="Ankit Paul"/>
         <br />
