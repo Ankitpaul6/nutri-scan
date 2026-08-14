@@ -19,7 +19,7 @@
         <sub><b>Ankit Paul</b></sub>
       </a>
       <br />
-      <sub>Frontend Developer</sub>
+     
     </td>
   
   </tr>
