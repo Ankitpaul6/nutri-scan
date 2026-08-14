@@ -10,26 +10,8 @@
         <sub><b>Nakshatra Naskar</b></sub>
       </a>
       <br />
-      <sub>Project Lead & Full-Stack AI/ML Developer</sub>
-    </td>
-    <td align="center">
-      <a href="[URL_to_Ananya_Laha_Profile]">
-        <img src="https://toppng.com/uploads/preview/github-logo-png-download-11659780035ovo4tgsfgr.png" width="100px;" alt="Ananya Laha"/>
-        <br />
-        <sub><b>Ananya Laha</b></sub>
-      </a>
-      <br />
-      <sub>UI/UX Designer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kunaldutta14">
-        <img src="https://avatars.githubusercontent.com/u/106682859?v=4" width="100px;" alt="Kunal Dutta"/>
-        <br />
-        <sub><b>Kunal Dutta</b></sub>
-      </a>
-      <br />
-      <sub>Data Scientist</sub>
-    </td>
+   </td>
+    
      <td align="center">
       <a href="https://github.com/ankit-paul-2002">
         <img src="https://avatars.githubusercontent.com/u/96469248?v=4" width="100px;" alt="Ankit Paul"/>
@@ -39,15 +21,7 @@
       <br />
       <sub>Frontend Developer</sub>
     </td>
-     <td align="center">
-      <a href="https://github.com/Pratyay-Roy">
-        <img src="https://avatars.githubusercontent.com/u/205917743?v=4" width="100px;" alt="Pratyay Roy"/>
-        <br />
-        <sub><b>Pratyay Roy</b></sub>
-      </a>
-      <br />
-      <sub>Data Engineer</sub>
-    </td>
+  
   </tr>
 </table>
 <div align="center">
@@ -70,37 +44,6 @@ This project contains both an **Android Application** and a **Web Application**.
 Pick your platform below and get started in just one click 👇  
 
 ---
-
-<div align="center">
-
-### 📱 Android App  
-
-[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-success?style=for-the-badge&logo=android)](app/build/outputs/apk/debug/NutriScan.apk)  (link not added)<br>
-[![View App Code](https://img.shields.io/badge/💻_View-App_Code-brightgreen?style=for-the-badge&logo=kotlin)](App/)  (working) <br>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Web App  
-
-[![Launch Web App](https://img.shields.io/badge/🚀_Launch-Web_App-blue?style=for-the-badge&logo=google-chrome)](https://nutri-scan-ai-azure.vercel.app/)  (Working)<br>
-[![Launch Web 2 App](https://img.shields.io/badge/🚀_Launch-Web_App_2-blue?style=for-the-badge&logo=google-chrome)](https://nutri-scan-ai-kunal.vercel.app/)  (Working)<br>
-[![View Website Code](https://img.shields.io/badge/💻_View-Website_Code-lightgrey?style=for-the-badge&logo=react)](Website/my-app)  (Working)<br>
-
-</div>
-
----
-
-✨ **Pro Tip:**  
-- Install the APK on your Android device to try the app.  
-- Use the hosted **Web App** link for instant access in your browser.  
-
----
-
-<div align="center">
 
 # 🌍 NutriScan Overview 
  
