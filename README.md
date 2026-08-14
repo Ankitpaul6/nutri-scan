@@ -225,7 +225,7 @@ Both **App** & **Website** connect to the **same AI-powered API server**. Every 
 
 **Frontend (Web)**: React ⚡ Vite ⚡ Tailwind CSS (responsive, blazing fast)  
 **Backend**: Python + Flask 🚀 (serving AI/ML engine & APIs)  
-**Mobile**: Kotlin + Jetpack Compose 📱 (native, modern UI)  
+ 
 **AI/ML Engine**: Custom hybrid model (ML layer)  
 **Database**: (Working on)  
 **APIs**: Unified REST API (serving both App & Web)  
@@ -234,7 +234,7 @@ Both **App** & **Website** connect to the **same AI-powered API server**. Every 
 
 ## 📱 App & Website  
 
-### 📲 Android App  
+ 
 A **next-gen mobile client** built with **Kotlin + Jetpack Compose**  
 - 🔍 **Smart Barcode Scanner** → CameraX + ML Kit for instant recognition  
 - 📊 **Interactive Results Screen** → Nutrient breakdown + AI insights  
@@ -260,47 +260,7 @@ A **high-performance React dashboard** that mirrors the mobile app while showcas
 
 ---
 
-## 📂 Project Structure  
-<!-- ```
-NutriScan/
-│
-├── app/ # Android App Source Code
-│ └── build/
-│ └── outputs/
-│ └── apk/
-│ └── debug/
-│ └── NutriScan.apk # Installable APK
-│
-└── Website/ # Website Source Code
-└── my-app/
-├── public/
-├── src/
-└── index.html
-``` -->
-```
-Work On Progress (Comming Soon...)
-```
----
-## 👨‍💻 Our Team  
 
-- 🚀 **Nakshatra Naskar** – *Project Lead & Full-Stack AI/ML Developer*  
-  → Architected the **Android App**, built the **Flask backend**, and developed the **AI/ML engine** powering NutriScan.  
-
-- 🎨 **Ananya Laha** – *UI/UX Designer*  
-  → Designed sleek, intuitive user flows and interfaces for both **mobile & web**.  
-
-- 📊 **Kunal Dutta** – *Data Scientist*  
-  → Processed nutrition datasets, tuned probabilistic models, and optimized health scoring logic.  
-
-- 💻 **Ankit Paul** – *Frontend Developer*  
-  → Built the **React-based web app**, integrating real-time AI insights & visualizations.  
-
-- 🗄️ **Pratyay Roy** – *Data Engineer*  
-  → Designed data pipelines, ensured smooth API ↔ database integration and data sharing.  
-
----
-
-⚡ Together, we’ve fused **AI/ML, modern app development, and data engineering** into a single powerful system that turns food barcodes into **real-time, explainable, and personalized health intelligence**.
 
 ---
 
